@@ -15,7 +15,7 @@
     <body>
 
 <p>The security attacks can be classified into two types that are active and passive attacks where the attacker gains illegal<br>
-	acces to the system's resources<br>
+	acces to the system's resources.<br>
    <img src="https://techdifferences.com/wp-content/uploads/2018/02/intro-image.jpg" width="300" length="400">
 </p>
 <p>The major difference between active and passive attacks is that in active attacks the attacker<br>
